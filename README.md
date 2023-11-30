@@ -1,12 +1,19 @@
 <pre>
 NOTES 11-29-2023 Marc Brown: 
 
-Updated the requirements.txt to be correct
-Loaded the database with films in pixar.csv
-Moved config_file_starter.ini to config_file.ini
-Included the db in the repo
+This repo is from: 
+https://github.com/fabricius1/DjangoFilmsCRUD.git
+
+The corresponding article is: 
+https://towardsdatascience.com/build-a-django-crud-app-by-using-class-based-views-12bc69d36ab6
+
+Here's how the repo has been changed:
+   1. Updated the requirements.txt to be correct
+   2. Loaded the database with films in pixar.csv
+   3. Moved config_file_starter.ini to config_file.ini
+   4. Included the db in the repo
  
-Thus, you should be able to see the app:
+Thus, you should be able to run the app using the usual algorithm:
 
 python3 -m venv venv
 source venv/bin/activate
