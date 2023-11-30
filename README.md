@@ -1,3 +1,18 @@
+<pre>
+NOTES 11-29-2023 Marc Brown: 
+
+Updated the requirements.txt to be correct
+Loaded the database with films in pixar.csv
+Moved config_file_starter.ini to config_file.ini
+Included the db in the repo
+ 
+Thus, you should be able to see the app:
+
+python3 -m venv venv
+source venv/bin/activate
+python manage.py runserver
+</pre>
+
 <h1 style="text-align: center">DJANGO FILMS CRUD TUTORIAL COMPANION CODE</h1>
 
 <br />
